@@ -1,2 +1,1 @@
-# LearnJavaDemo01
-JavaDemoToDoApp
+VERSION: TODO-APP-1.0-SNAPSHOT
